@@ -186,4 +186,7 @@ The watchdog must be used in order to perform a plate reset in case the controll
 ```
 
 # Video
+
+In the video you can see that when I make the first attempt to press for between 2 and 3 seconds I can't get it right and I try again at the end of the video where I do. Otherwise, the operation of the program seen in the video is based on a state machine using switch-case and is divided into two main parts that would be the service mode and the admin mode, each with its switch-case to meet the requirements. specifications of the practice statement.
+
 https://urjc-my.sharepoint.com/:v:/g/personal/a_martinezal_2021_alumnos_urjc_es/EdIpg0MQ45ZAm2o1tvdJ24kBLLSmGV1jiDnK6Cm_B-Lo4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nTGjaa
