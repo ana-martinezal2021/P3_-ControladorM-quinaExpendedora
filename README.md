@@ -14,7 +14,8 @@ The practice of integrating the following hardware components:
 
 Below is the circuit diagram:
 
-![Esquema_P3](https://github.com/ana-martinezal2021/P3_ControladorMaquinaExpendedora/assets/92941166/84b3f019-f0ee-4765-a8e8-32b520b854ad)
+![maquina_expendedora](https://github.com/ana-martinezal2021/P3_ControladorMaquinaExpendedora/assets/92941166/cc137e85-6c16-4b02-a41f-79f5dc0451b1)
+
 
 # Development
 
@@ -185,4 +186,4 @@ The watchdog must be used in order to perform a plate reset in case the controll
 ```
 
 # Video
-  
+https://urjc-my.sharepoint.com/:v:/g/personal/a_martinezal_2021_alumnos_urjc_es/EdIpg0MQ45ZAm2o1tvdJ24kBLLSmGV1jiDnK6Cm_B-Lo4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nTGjaa
