@@ -178,8 +178,11 @@ The watchdog must be used in order to perform a plate reset in case the controll
 
 // Enable the watchdog (8sec)
   wdt_enable(WDTO_8S);
+
+// Reset the watchdog
+  wdt_reset();
+
 ```
 
 # Video
-https://urjc-my.sharepoint.com/:v:/g/personal/a_martinezal_2021_alumnos_urjc_es/EYRCXvJrZT5KgUSARmJbgU8B1t921e2RBUF-L4YJAYyISw
   
